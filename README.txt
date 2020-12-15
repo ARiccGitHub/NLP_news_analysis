@@ -68,9 +68,6 @@ Project map:
 Python Jupiter Notebook Code Lines File:
 NLP_news_analysis.ipynp
 
-Python Code Lines File
-NLP_news_analysis.py
-
 Articles data:
 articles.py
 
