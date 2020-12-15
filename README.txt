@@ -52,15 +52,24 @@ Using Jupyter Notebook as the project code presentation is a personal preference
 
 Links:
 
-Project’s blog presentation
+My Project Blog Presentation: 
 https://www.alex-ricciardi.com/post/read-the-news-analysis
+
+Project Jupiter Notebook Code presentation:
+https://github.com/ARiccGitHub/NLP_news_analysis/blob/main/NLP_news_analysis.ipynb
+
+Project GitHub:
+https://github.com/ARiccGitHub/NLP_news_analysis
 
 ----------------------------------------------------------------------------------------
 
 Project map:
 
-Python jupiter notebook code lines file:
+Python Jupiter Notebook Code Lines File:
 NLP_news_analysis.ipynp
+
+Python Code Lines File
+NLP_news_analysis.py
 
 Articles data:
 articles.py
